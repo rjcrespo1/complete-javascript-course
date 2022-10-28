@@ -37,7 +37,7 @@ const arr = [2, 3, 4];
 const a = arr[0];
 const b = arr[1];
 const c = arr[2];
-// console.log(a, b, c);
+// console.log(a, b, c)
 
 const [x, y, z] = arr; // this destructuring is the same as the above (lines 34-36) but simplified and much cleaner.
 console.log(x, y, z);
